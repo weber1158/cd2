@@ -7,7 +7,7 @@ Simply add folders to the list of favorites **one time**, and then you won't eve
 
 
 ## How to install
-1. Download the repository as a zip file from GitHub or the File Exchange and save the contents somewhere on your computer. Alternatively, you can open the repository directly in MATLAB Online ([click here](download)).
+1. Download the repository as a zip file and save the contents somewhere on your computer. 
 
 2. Use the `pathtool` function to add the `cd2` folder to the permanent search path.
 
